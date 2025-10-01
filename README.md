@@ -1,5 +1,4 @@
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Frontend Project
 - 🌱 I’m currently learning Machine learning (ML)
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me malishilpa05@gmail.com
