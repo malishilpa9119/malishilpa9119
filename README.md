@@ -1,6 +1,7 @@
 ## Hi, I'm Shilpa Mali
 
 Aspiring Data Scientist from India
+
 Socials [LinkedIn](https://www.linkedin.com/in/shilpa-mali-7812362ab/) | [Email](malishilpa05@gmail.com)
 
 ## About Me
@@ -10,11 +11,17 @@ I’m a fast learner who loves experimenting with new tools and technologies, co
 
 ## Tech Stack
 Languages & Tools: Python, C++, SQL, JavaScript, React
+
 Libraries & Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras, Flask
+
 Data Science & Machine Learning: Data Gathering, Data Cleaning, EDA, Feature Engineering & Selection, Supervised & Unsupervised Learning, NLP, Deep Learning
+
 Mathematics for ML & DL: Statistics, Probability, Linear Algebra, Matrices
+
 Tools for Data Analysis: Tableau, Power BI, Excel
+
 Databases: Postgresql,MySQL,MongoDB
+
 DevOps & Tools: Docker, Git, GitHub, AWS, DigitalOcean
 
 
