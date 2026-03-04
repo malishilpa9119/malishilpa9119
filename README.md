@@ -3,6 +3,7 @@
 Aspiring Data Scientist from India
 
 Socials [LinkedIn](https://www.linkedin.com/in/shilpa-mali-7812362ab/) | [Email](malishilpa05@gmail.com)
+🌐 Portfolio: https://shilpa-mali-portfolio.vercel.app
 
 ## About Me
 I’m a passionate Data Science and Machine Learning enthusiast driven by curiosity and continuous self-learning.
