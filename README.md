@@ -1,14 +1,14 @@
 ## Hi, I'm Shilpa Mali
 
-Aspiring Data Scientist from India
+Data Scientist & Full-Stack Developer
 
 Socials [LinkedIn](https://www.linkedin.com/in/shilpa-mali-7812362ab/) | [Email](malishilpa05@gmail.com)
 🌐 Portfolio: https://shilpa-mali-portfolio.vercel.app
 
 ## About Me
-I’m a passionate Data Science and Machine Learning enthusiast driven by curiosity and continuous self-learning.
+I'm a passionate Data Science and Machine Learning enthusiast driven by curiosity and continuous self-learning.
 Having completed my Bachelor of Science (B.Sc), I focus on exploring data, building predictive models, and uncovering meaningful insights that lead to smart, data-driven decisions.
-I’m a fast learner who loves experimenting with new tools and technologies, constantly improving my skills through hands-on projects and real-world problem-solving.
+I'm a fast learner who loves experimenting with new tools and technologies, constantly improving my skills through hands-on projects and real-world problem-solving.
 
 ## Tech Stack
 Languages & Tools: Python, C++, SQL, JavaScript, React
